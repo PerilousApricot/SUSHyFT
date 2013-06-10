@@ -1,0 +1,950 @@
+130318_094609: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_094623: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130318_094626: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130318_094629: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130318_094631: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130318_094634: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130318_095423: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_095427: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130318_095430: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130318_095433: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130318_095434: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130318_095520: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_095523: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130318_095538: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_095552: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130318_095600: /home/meloam/tools/crab/python/crab.py -create -submit 100 -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130318_095618: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130318_095654: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130318_095706: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg
+130318_095713: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130318_095714: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_095824: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130318_100050: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10
+130318_103325: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10
+130318_103356: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10
+130318_103503: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit
+130318_103540: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create
+130318_103743: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_103802: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_103859: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_103940: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_104135: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_105824: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_110002: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 100
+130318_110253: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_110422: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_110517: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_110747: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_110905: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_110955: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -debug 10 -create -submit 10
+130318_111102: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111128: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111200: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111218: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111320: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit 10
+130318_111500: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit 10
+130318_111634: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111831: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_111957: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_112016: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_112029: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_112117: /home/meloam/tools/crab/python/crab.py -create -submit 10 -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg
+130318_112417: /home/meloam/tools/crab/python/crab.py -submit 10 -debug 100 -c crab_v2__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_113044: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113114: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113139: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113219: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113248: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113313: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit 10
+130318_113405: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit 10
+130318_113458: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113533: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg -create -submit 10
+130318_113600: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113721: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113754: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_113822: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit 10
+130318_113955: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit 10
+130318_114140: /home/meloam/tools/crab/python/crab.py -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_114207: /home/meloam/tools/crab/python/crab.py -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_114254: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_114321: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_114401: /home/meloam/tools/crab/python/crab.py -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg -create -submit 10
+130318_114752: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_114817: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_114843: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_114907: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_114930: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_114955: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg -create -submit 10
+130318_115009: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_115032: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_115057: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_115121: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_115146: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_115923: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v2__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_120138: /home/meloam/tools/crab/python/crab.py -create -submit 10 -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg
+130318_120652: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_120714: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_120730: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_120802: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_120820: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_120836: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit 10
+130318_120918: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit 10
+130318_121002: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_121026: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg -create -submit 10
+130318_121042: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_121126: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_121147: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit 10
+130318_121205: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit 10
+130318_121253: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit 10
+130318_121348: /home/meloam/tools/crab/python/crab.py -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_121406: /home/meloam/tools/crab/python/crab.py -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_121437: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_121454: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit 10
+130318_121523: /home/meloam/tools/crab/python/crab.py -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg -create -submit 10
+130318_121720: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121735: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121750: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121805: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121821: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121836: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg -create -submit 10
+130318_121841: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121855: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121909: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121924: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_121939: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit 10
+130318_122123: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_122128: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_122130: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_122146: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_122150: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_122152: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_122215: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_122238: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_122251: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_122255: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_122334: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_122345: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_122350: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_122424: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_122456: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_122506: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122509: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122518: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122520: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122523: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_122547: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122549: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122551: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122552: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122554: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122557: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_122559: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122601: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122603: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122604: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122606: /home/meloam/tools/crab/python/crab.py -submit -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_122755: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_122759: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_122802: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_122810: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_122813: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_122817: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_122828: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_122838: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_122844: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_122848: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_122902: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_122909: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_122913: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_122927: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_122940: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_122946: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122948: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122953: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122955: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_122958: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_123013: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123016: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123019: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123023: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123027: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123030: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_123034: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123037: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123040: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123043: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_123046: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141740: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_141741: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_141742: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_141743: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_141744: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_141745: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_141746: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_141747: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_141748: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_141749: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_141750: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_141751: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_141752: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_141753: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_141754: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_141755: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141756: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141757: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141758: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141759: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_141800: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141801: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141802: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141803: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141804: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141805: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_141806: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141807: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141808: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141809: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141810: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141822: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_141823: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_141824: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_141825: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_141826: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_141827: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_141828: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_141829: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_141830: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_141831: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_141832: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_141833: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_141834: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_141835: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_141836: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_141837: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141838: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141839: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141840: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_141841: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_141842: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141843: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141844: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141845: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141846: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141847: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_141848: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141849: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141850: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141851: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_141852: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142753: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_142753: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_142754: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_142755: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_142756: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_142757: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_142758: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_142759: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_142800: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_142801: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_142802: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_142803: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_142804: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_142805: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_142806: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_142807: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_142808: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_142809: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_142810: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_142811: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_142812: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142813: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142814: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142815: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142816: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142817: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_142818: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142819: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142820: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142821: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_142822: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_143103: /home/meloam/tools/crab/python/crab.py -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143129: /home/meloam/tools/crab/python/crab.py -resubmit -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143211: /home/meloam/tools/crab/python/crab.py -resubmit 113-114 -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143304: /home/meloam/tools/crab/python/crab.py -resubmit 115-116 -debug 10 -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143345: /home/meloam/tools/crab/python/crab.py -resubmit 113-114 -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143354: /home/meloam/tools/crab/python/crab.py -kill 113-114 -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_143401: /home/meloam/tools/crab/python/crab.py -resubmit 113-114 -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130318_145451: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_145501: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_145506: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_145538: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_145543: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_145547: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_145624: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_145722: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_145737: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_145743: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_145827: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_145841: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_145847: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_145925: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_145940: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_145950: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_145952: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_150002: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_150004: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_150008: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_150039: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150044: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150048: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150053: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150057: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150101: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_150103: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150107: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150111: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150115: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_150119: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192104: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_192107: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_192108: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192118: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130318_192705: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130318_192706: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204135: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204353: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204353: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130319_204354: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204355: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204356: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204357: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204358: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204359: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204400: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130319_204401: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204402: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204403: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204404: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204405: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204406: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130319_204407: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204408: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204409: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204410: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204411: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130319_204412: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204413: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204414: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204415: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204416: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204417: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130319_204418: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204419: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204420: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204421: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204422: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204600: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204604: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130319_204609: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204614: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204619: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204624: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204629: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204634: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_204639: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130319_204644: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_204649: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_204654: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_204700: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_204704: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_204709: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130319_204714: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204719: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204724: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204729: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_204734: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130319_204739: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204744: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204749: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204754: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204800: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204805: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130319_204809: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204814: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204819: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204824: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_204829: /home/meloam/tools/crab/python/crab.py -get -status -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_205949: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_205954: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130319_205959: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_210004: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_210009: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_210014: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_210019: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_210024: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130319_210029: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130319_210034: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130319_210039: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130319_210044: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130319_210049: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130319_210054: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130319_210059: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130319_210104: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_210109: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_210114: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_210119: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130319_210124: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130319_210129: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210134: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210139: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210144: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210149: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210154: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130319_210159: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210204: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210209: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210214: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130319_210219: /home/meloam/tools/crab/python/crab.py -publish -c crab_v3__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130320_001356: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130320_001456: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit
+130320_001523: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130320_001632: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit
+130320_001702: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit
+130320_001735: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit
+130320_001912: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit
+130320_002040: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130320_002125: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg -create -submit
+130320_002151: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130320_002324: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit
+130320_002407: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit
+130320_002436: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit
+130320_002625: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit
+130320_002817: /home/meloam/tools/crab/python/crab.py -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg -create -submit
+130320_002937: /home/meloam/tools/crab/python/crab.py -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130320_003003: /home/meloam/tools/crab/python/crab.py -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130320_003051: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130320_003116: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130320_003156: /home/meloam/tools/crab/python/crab.py -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg -create -submit
+130320_003556: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003620: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003643: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003708: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003732: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003755: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg -create -submit
+130320_003808: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003832: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003855: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003919: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_003942: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130320_110136: /home/meloam/tools/crab/python/crab.py -kill all -c crab_v4__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130320_110203: /home/meloam/tools/crab/python/crab.py -resubmit all -c crab_v4__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130325_171740: /home/meloam/tools/crab/python/crab.py -create submit -cfg crab_v4__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_171743: /home/meloam/tools/crab/python/crab.py -create submit -cfg crab_v4__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130325_171748: /home/meloam/tools/crab/python/crab.py -create submit -cfg crab_v4__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_171753: /home/meloam/tools/crab/python/crab.py -create submit -cfg crab_v4__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_171758: /home/meloam/tools/crab/python/crab.py -create submit -cfg crab_v4__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_171852: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130325_171857: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130325_171902: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130325_171907: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130325_171912: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130325_171917: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg
+130325_171922: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130325_171927: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130325_171932: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg
+130325_171937: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130325_171942: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130325_171947: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130325_171953: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg
+130325_171957: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130325_172002: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg
+130325_172007: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_172012: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_172017: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_172022: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_172027: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg
+130325_172032: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172037: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172042: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172047: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172052: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172057: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg
+130325_172102: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172107: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172112: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172117: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_172122: /home/meloam/tools/crab/python/crab.py -create submit -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130325_173406: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_173410: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130325_173415: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_173420: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_173425: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_173430: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_173435: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_173440: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_173445: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130325_173450: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_173455: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_173500: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_173505: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_173511: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_173515: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130325_173520: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_173525: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_173530: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_173535: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_173540: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130325_173545: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173550: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173555: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173600: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173605: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173611: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130325_173615: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173620: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173625: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173630: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_173635: /home/meloam/tools/crab/python/crab.py -submit -c crab_v5__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_174920: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_174958: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_175625: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130325_180321: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130325_180322: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg -create -submit
+130325_180324: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130325_180326: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit
+130325_180328: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit
+130325_180330: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit
+130325_180332: /home/meloam/tools/crab/python/crab.py -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit
+130325_180334: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130325_180336: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg -create -submit
+130325_180338: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg -create -submit
+130325_180340: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg -create -submit
+130325_180342: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg -create -submit
+130325_180344: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg -create -submit
+130325_180346: /home/meloam/tools/crab/python/crab.py -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg -create -submit
+130325_180348: /home/meloam/tools/crab/python/crab.py -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg -create -submit
+130325_180350: /home/meloam/tools/crab/python/crab.py -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130325_180352: /home/meloam/tools/crab/python/crab.py -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130325_180354: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130325_180356: /home/meloam/tools/crab/python/crab.py -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg -create -submit
+130325_180359: /home/meloam/tools/crab/python/crab.py -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg -create -submit
+130325_180400: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180402: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180404: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180406: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180408: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180410: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg -create -submit
+130325_180412: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180415: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180416: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180419: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_180421: /home/meloam/tools/crab/python/crab.py -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg -create -submit
+130325_223403: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_223416: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130325_223421: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_223455: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_223503: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_223507: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_223531: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_223548: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_223611: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130325_223617: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_223628: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_223647: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_223654: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_223709: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_223722: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130325_223727: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_223729: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_223736: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_223738: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_223742: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130325_223751: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223756: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223759: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223804: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223807: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223811: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130325_223813: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223816: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223820: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223824: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_223827: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224245: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_224248: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130325_224251: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_224255: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_224258: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_224301: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_224308: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_224316: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130325_224319: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130325_224322: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130325_224334: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130325_224338: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130325_224341: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130325_224353: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130325_224406: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130325_224410: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_224413: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_224418: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_224420: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130325_224423: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130325_224433: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224436: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224439: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224442: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224445: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224448: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130325_224450: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224454: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224457: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224501: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130325_224504: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_054819: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130326_054827: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130326_054830: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130326_054834: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130326_054837: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130326_054840: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130326_054912: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130326_054951: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130326_054956: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130326_054959: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130326_055033: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130326_055037: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130326_055041: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130326_055104: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130326_055119: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130326_055138: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130326_055140: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130326_055153: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130326_055155: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130326_055159: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130326_055209: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055215: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055218: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055221: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055234: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055238: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130326_055240: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055243: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055247: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055251: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055255: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130326_055409: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130326_055412: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130326_071907: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130326_071931: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER/
+130408_114555: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130408_114632: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130408_114647: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER.cfg
+130408_114703: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130408_114717: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130408_114733: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130408_114747: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg
+130408_114803: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130408_114818: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER.cfg
+130408_114833: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER.cfg
+130408_114848: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER.cfg
+130408_114903: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER.cfg
+130408_114918: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER.cfg
+130408_114932: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER.cfg
+130408_114948: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER.cfg
+130408_115003: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER.cfg
+130408_115018: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130408_115033: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130408_115048: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130408_115102: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER.cfg
+130408_115118: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER.cfg
+130408_115132: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115148: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115203: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115218: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115233: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115248: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER.cfg
+130408_115303: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115318: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115333: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115348: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_115403: /home/meloam/tools/crab/python/crab.py -create -submit -cfg config__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER.cfg
+130408_125243: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_125302: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130408_125319: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_125338: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130408_125354: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130408_125413: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130408_125426: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_125443: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130408_125501: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_125518: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130408_125539: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130408_125555: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130408_125617: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130408_125644: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_125704: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130408_125724: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_125744: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130408_125803: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130408_125819: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130408_140718: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_140737: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130408_140746: /home/meloam/tools/crab/python/crab.py -status -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_140752: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_140833: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130408_140908: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_140912: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_140927: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130408_140943: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_141004: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130408_141029: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130408_141051: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130408_141111: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130408_141128: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130408_141145: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130408_141211: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130408_141232: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130408_141249: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130408_141311: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130408_141332: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130408_141350: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130408_141400: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130408_141406: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130408_141427: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130408_141435: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130408_141442: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130408_141452: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141515: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141531: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141550: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141603: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141621: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130408_141625: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141644: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141659: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141720: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130408_141733: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_000632: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_000843: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_001025: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_001216: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_001357: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_001534: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_001729: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_001909: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_002027: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130412_002148: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_002309: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_002421: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_002522: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_002637: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_002753: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130412_002834: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_002838: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_002953: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_002956: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_003002: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130412_003036: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003143: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003234: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003347: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003444: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003540: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130412_003543: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003625: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003725: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003849: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_003947: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005048: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_005054: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_005059: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_005105: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_005109: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_005115: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_005119: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_005125: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_005129: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130412_005135: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_005139: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_005144: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_005149: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_005154: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_005200: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130412_005204: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_005208: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_005213: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_005217: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_005220: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130412_005226: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005230: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005236: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005241: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005245: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005250: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130412_005252: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005257: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005301: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005306: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005310: /home/meloam/tools/crab/python/crab.py -status -get -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_005826: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_041419: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_063323: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_084959: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_085000: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_085002: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_085003: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_085010: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_085011: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_085012: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_085013: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_085014: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_085015: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_085015: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_085017: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_085018: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130412_085019: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_085020: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_085021: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_085022: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_085023: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_085024: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130412_085025: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_085026: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_085027: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_085028: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_085029: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130412_085030: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085031: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085032: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085033: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085034: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085035: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130412_085036: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085037: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085038: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085039: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_085040: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_120316: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_121635: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_121636: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_121652: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_121653: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212222033_USER
+130412_121654: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_121655: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_121656: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_121657: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_121658: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__MET_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_121659: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_13Jul2012_v1-20130212222033_USER
+130412_121700: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012A_recover_06Aug2012_v1-20130212213007_USER
+130412_121701: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012B_13Jul2012_v1-20130212222033_USER
+130412_121702: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_24Aug2012_v1-20130212222033_USER
+130412_121703: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_EcalRecover_11Dec2012_v1-20130212222033_USER
+130412_121704: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012C_PromptReco_v2-20130212222033_USER
+130412_121705: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__SingleMu_meloam_feb12_tlbsm53x2_Run2012D_PromptReco_v1-20130212222033_USER
+130412_121706: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola_None-20130206162922_USER
+130412_121707: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__T_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_121708: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__T_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_121709: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_121710: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola_None-20130206162922_USER
+130412_121711: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball_jan302103tlbsm-20130130074834_USER
+130412_121712: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-0to15_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121713: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-120to170_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121714: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-15to20_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121715: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-170to230_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121716: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121717: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6_None-_USER
+130412_121718: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-230to300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121719: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-300_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121720: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-30to50_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121721: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia6_None-20130206162922_USER
+130412_121722: /home/meloam/tools/crab/python/crab.py -publish -c crab_v6__ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6_None-20130206162922_USER

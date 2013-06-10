@@ -1,0 +1,18 @@
+<use   name="DataFormats/PatCandidates"/>
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/ServiceRegistry"/>
+<use   name="FWCore/Utilities"/>
+<use   name="CommonTools/UtilAlgos"/>
+<use   name="Analysis/SHyFT"/>
+<use   name="clhep"/>
+<use   name="MagneticField/Records"/>
+<use   name="MagneticField/Engine"/>
+<use   name="RecoEgamma/EgammaTools"/>
+<use   name="TopQuarkAnalysis/TopKinFitter"/>
+<use   name="Analysis/PdfWeights"/>
+<use   name="RecoBTag/PerformanceDB"/>
+<use   name="CondFormats/PhysicsToolsObjects"/>
+<use   name="RecoBTag/Records"/>
+<export>
+</export>

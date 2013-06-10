@@ -1,0 +1,11 @@
+<export>
+</export>
+<library   name="AnalysisEDSHyFT_plugins" file="*.cc">
+  <use   name="Analysis/EDSHyFT"/>
+  <use   name="FWCore/Framework"/>
+  <use   name="FWCore/ParameterSet"/>
+  <use   name="FWCore/MessageLogger"/>
+  <use   name="FWCore/MessageService"/>
+  <use   name="DataFormats/PatCandidates"/>
+  <use   name="root"/>
+</library>

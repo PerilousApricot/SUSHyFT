@@ -1,0 +1,15 @@
+universe = vanilla
+Executable = condor_qcd.sh
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+notification = Never
+myPath = /uscms_data/d2/skhalil/BPrimeBoost/CMSSW_5_3_4/src/Analysis/EDSHyFT/test/condorJobs_8TeV
+myOutPath = /uscms_data/d2/skhalil/BPrimeNtuples_8TeV/Feb02
+myLogFolder = condorLog
+Output = $(myPath)/$(myLogFolder)/batch_$(cluster)_$(process).stdout
+Error  = $(myPath)/$(myLogFolder)/batch_$(cluster)_$(process).stderr
+Log    = $(myPath)/$(myLogFolder)/batch_$(cluster)_$(process).condor
+Requirements          = (Memory >= 499 && OpSys == "LINUX" && (Arch != "DUMMY"))
+Arguments = $(cluster) $(process) $(myPath) $(myPath)/QCDEleTextFiles $(myOutPath) 0
+notify_user = skhalil@FNAL.GOV
+Queue 14

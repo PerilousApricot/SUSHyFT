@@ -1,0 +1,20 @@
+[CRAB]
+jobtype = cmssw
+scheduler = condor
+use_server = 0
+
+[CMSSW]
+datasetpath = /SingleMu/srappocc-ttbsm_v8_Run2011-May10ReReco-0d3d9a54f3a29af186ad87df2a0c3ce1/USER
+dbs_url = http://cmsdbsprod.cern.ch/cms_dbs_ph_analysis_02/servlet/DBSServlet
+pset = shyftPFSubstructureTupleDump_cfg.py
+total_number_of_lumis = -1
+number_of_jobs = 10
+get_edm_output = 1
+pycfg_params = muOrEle=0
+lumi_mask= Cert_160404-163869_7TeV_May10ReReco_Collisions11_JSON.txt
+
+[USER]
+#debug_wrapper = 1
+return_data = 1
+ui_working_dir =SingleMu_Run2011A-May10ReReco_ttbsm_v8_shyftSubstructureTuples_v7
+additional_input_files = Jec11_V1_AK5PFchs_L1FastJet.txt,Jec11_V1_AK5PFchs_L2Relative.txt,Jec11_V1_AK5PFchs_L3Absolute.txt,Jec10_V3_AK5PFchs_Uncertainty.txt
